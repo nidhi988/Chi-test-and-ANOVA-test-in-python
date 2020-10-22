@@ -1,1 +1,1 @@
-# Chi-test-in-python
+# Chi-test and ANOVA test in python
